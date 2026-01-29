@@ -1,0 +1,12 @@
+{
+  "listMode": "NONE",
+  "solidBlocksOnly": false,
+  "offUnbreakableBlocks": false,
+  "allowedBlocks": [],
+  "bannedBlocks": [],
+  "playerDieAfterDestroy": true,
+  "useMode": "ALL",
+  "placeMode": "OUT",
+  "canOperatorModifyConfig": true,
+  "screenAccess": "ALL"
+}
