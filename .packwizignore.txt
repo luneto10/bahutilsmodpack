@@ -1,4 +1,0 @@
-config/worldedit/.archive-unpack/
-config/worldedit/session.lock
-.gitattributes
-.gitignore

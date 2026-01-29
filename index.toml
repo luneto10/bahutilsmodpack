@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes.txt"
-hash = "6b8e6e49968ddbe3eb6330e0d3a11e5badcacb65c07ce984d02d6f4312e5bfa8"
-
-[[files]]
-file = ".packwizignore.txt"
-hash = "cc0954941bad101692ec7406e904273e413e62873309224bdbc92b6822254c22"
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/alexsmobs.toml"
