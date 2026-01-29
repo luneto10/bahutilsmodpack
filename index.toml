@@ -1617,16 +1617,6 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "e5650ca09fdb53d1c197b4b7d000c432a566c559381106edeee0e2abc2ce1cd0"
-metafile = true
-
-[[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "599e6e0406994fa4810ff35a211317c5c90b04221e58e7c18e368e40ea3de84a"
-metafile = true
-
-[[files]]
 file = "mods/explosion-overhaul-a-new-level-of-destruction.pw.toml"
 hash = "432ecc3303720b9ea9e8e319bd35ade8779588bb8e4309f21ae86d683a212fb1"
 metafile = true
@@ -1662,16 +1652,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "8e564ffebd3892f46ebad830733cb9f68e45895c53da42526aec2cbe7b5a9707"
-metafile = true
-
-[[files]]
-file = "mods/lan-properties.pw.toml"
-hash = "4287855a079ab2f0d1cd15ec63b95219b59c7a303ef5f11ea1651ed3390768f9"
-metafile = true
-
-[[files]]
-file = "mods/lucky-block.pw.toml"
-hash = "ecbf67162e047b2b2138ec85129abc5321abcd61f5fa4a96322bdfe151f50dfb"
 metafile = true
 
 [[files]]
